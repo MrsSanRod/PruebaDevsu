@@ -1,0 +1,9 @@
+com\micro1\Persona\controller\ClienteController.class
+com\micro1\Persona\service\ClienteService.class
+com\micro1\Persona\controller\PersonaController.class
+com\micro1\Persona\entity\Cliente.class
+com\micro1\Persona\PersonaApplication.class
+com\micro1\Persona\entity\Persona.class
+com\micro1\Persona\repository\PersonaRepository.class
+com\micro1\Persona\service\PersonaService.class
+com\micro1\Persona\repository\ClienteRepository.class
